@@ -5,18 +5,18 @@ on:
       KEY_ENCODING:
         type: string
         description: License encoding ascii, ansi or utf8
-        default: 'utf8'
+        default: 'ansi'
         required: true
 
       KEY_USERNAME:
         type: string
-        description: Input your username
+        description: Angela_u83
         required: true
         
       KEY_LICENSE_NAME:
         type: string
         description: Input your license name
-        default: 'Single PC usage license'
+        default: 'angela-u83.asia'
         required: true
 
 jobs:
